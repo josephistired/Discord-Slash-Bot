@@ -30,7 +30,7 @@ A Simple discord slash bot based on Lyx's Slash Command Handler (https://www.you
 git clone https://github.com/josephistired/Discord.V13SlashBot.git
 
 # Enter into the directory
-cd discord-bot/
+cd Discord.V13SlashBot
 
 # Install the dependencies
 npm install
