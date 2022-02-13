@@ -1,3 +1,11 @@
+## Features!
+
+*   🎉  **Fun**: `8ball`, `cuddle`, `dog`, `hug`, `kiss` and **5** more! 
+*   🚓  **Moderation**: `ban`, `kick`, `purge`, `slowmode`, `unban`, `mute`, `Black Listed Words!`
+*   🎵  **Music System**:  Music System **(Updates Soon)**
+*   🔨  **Utilities**: `avatar`, `ip`, `status`, `whois`
+*   🔞  **NSFW**: Total of **5** commands!
+
 # Discord.js V13 Bot
 
 A Simple discord slash bot based on Lyx's Slash Command Handler (https://www.youtube.com/c/Lyxcode)
@@ -6,9 +14,8 @@ A Simple discord slash bot based on Lyx's Slash Command Handler (https://www.you
 
 * [Requirements](#requirements)
 * [Installation](#install)
-* [Common errors](#common-errors)
-* [Contributing](#contributing)
-* [Author](#author)
+* [Permissions](#permissions)
+* [Config](#configuration)
 * [License](#license)
 
 ## Requirements
@@ -28,15 +35,18 @@ cd discord-bot/
 # Install the dependencies
 npm install
 ```
+## Permissions
 
+**Important:** Make sure that your bot has the `applications.commands` application scope enabled, which can be found under the `OAuth2` tap on the [developer portal](https://discord.com/developers/applications/)
 
-## Features!
+### Configuration
 
-*   🎉  **Fun**: `8ball`, `cuddle`, `dog`, `hug`, `kiss` and **5** more! 
-*   🚓  **Moderation**: `ban`, `kick`, `purge`, `slowmode`, `unban`, `mute`, `Black Listed Words!`
-*   🎵  **Music System**:  Music System **(Updates Soon)**
-*   🔨  **Utilities**: `avatar`, `ip`, `status`, `whois`
-*   🔞  **NSFW**: Total of **5** commands!
+After cloning the project and installing all dependencies, you need to add your Discord API token in the config.json file.
+
+### Starting The Bot
+```bash
+nodemon
+```
 
 ## Soon!
 
