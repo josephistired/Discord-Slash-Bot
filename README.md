@@ -1,3 +1,14 @@
+### CHECK OUT MY DISCORD.PY MESSAGE DELETION BOT ###
+[Here](https://github.com/josephistired/Discord-Message-Deletion-Bot)
+
+
+
+
+
+
+
+
+
 ## Features!
 
 *   🎉  **Fun**: `8ball`, `cuddle`, `dog`, `hug`, `kiss` and **5** more! 
@@ -44,14 +55,11 @@ npm install
 After cloning the project and installing all dependencies, you need to add your Discord API token in the config.json file.
 
 ### Starting The Bot
-```bash
-nodemon
+```
+  bash nodemon
+  
 ```
 
-## Soon!
-
-*  New commands!
-*  Bug fixes!
 
 ## License 
 
