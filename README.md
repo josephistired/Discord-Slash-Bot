@@ -1,14 +1,6 @@
 ### CHECK OUT MY DISCORD.PY MESSAGE DELETION BOT ###
 [Here](https://github.com/josephistired/Discord-Message-Deletion-Bot)
 
-
-
-
-
-
-
-
-
 ## Features!
 
 *   🎉  **Fun**: `8ball`, `cuddle`, `dog`, `hug`, `kiss` and **5** more! 
@@ -17,7 +9,7 @@
 *   🔨  **Utilities**: `avatar`, `ip`, `status`, `whois`
 *   🔞  **NSFW**: Total of **5** commands!
 
-# Discord.js V13 Bot
+# Discord.js Slash Bot
 
 A Simple discord slash bot based on Lyx's Slash Command Handler (https://www.youtube.com/c/Lyxcode)
 
@@ -46,6 +38,7 @@ cd Discord.V13SlashBot
 # Install the dependencies
 npm install
 ```
+
 ## Permissions
 
 **Important:** Make sure that your bot has the `applications.commands` application scope enabled, which can be found under the `OAuth2` tap on the [developer portal](https://discord.com/developers/applications/)
