@@ -1,11 +1,11 @@
-### CHECK OUT MY DISCORD.PY MESSAGE DELETION BOT ###
-[Here](https://github.com/josephistired/Discord-Message-Deletion-Bot)
+### Update ###
+**This project is now archived, feel free to fork it and make it your own!**
 
 ## Features!
 
 *   🎉  **Fun**: `8ball`, `cuddle`, `dog`, `hug`, `kiss` and **5** more! 
 *   🚓  **Moderation**: `ban`, `kick`, `purge`, `slowmode`, `unban`, `mute`, `Black Listed Words!`
-*   🎵  **Music System**:  Music System **(Updates Soon)**
+*   🎵  **Music System**:  Music System
 *   🔨  **Utilities**: `avatar`, `ip`, `status`, `whois`
 *   🔞  **NSFW**: Total of **5** commands!
 
