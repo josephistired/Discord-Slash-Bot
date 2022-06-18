@@ -11,7 +11,7 @@
 
 # Discord.js Slash Bot
 
-A Simple discord slash bot based on Lyx's Slash Command Handler (https://www.youtube.com/c/Lyxcode)
+A Simple discord.js slash bot based on Lyx's Slash Command Handler (https://www.youtube.com/c/Lyxcode) 
 
 ## Table Of Content
 
